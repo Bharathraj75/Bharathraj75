@@ -1,0 +1,14 @@
+.parent{
+	marks: 10px;
+	display: grid;
+	grid-template-columns:  300px 700px;
+	grid-template-rows:  700px 700px;
+}
+.child{
+	background-color: blue; 
+	padding: 10px;
+	margin: 5px;
+	border-style:double;  
+	
+
+}
