@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Responsive Resume</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
 	
