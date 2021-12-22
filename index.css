@@ -1,0 +1,75 @@
+.Resume{
+	marks: 10px;
+	display: grid;
+	grid-template-columns:  300px 700px;
+	grid-template-rows:  700px 700px;
+}
+.profile{
+	background-color: lightblue; 
+	margin: 0px;
+	border-style:double;
+
+}
+
+.details
+{
+	background-color: #f0b27a; 
+	margin: 0px;
+	border-style:double;  
+
+}
+.image
+{
+	  position: absolute;
+      align-items: center;
+      background-color: lightblue;
+      border-radius: 500%;
+      top: 30px;
+      left: 70px;
+      width: 20%;
+      height: 30%;
+      overflow: hidden;
+}
+.name{
+	position: absolute;
+	align-items: center;
+	top: 180px;
+	left: 60px;
+}
+.line{
+	position: absolute;
+	align-items: center;
+	top: 300px;
+	left: 25px;
+	color: brown;
+}
+.info{
+	position: absolute;
+	align-items: center;
+	top: 250px;
+	left: 20px;
+}
+.education{
+	position: absolute;
+	align-items: center;
+	top: 390px;
+	left: 20px;
+}
+.skills{
+	position: absolute;
+	align-items: center;
+	
+	left: 330px;
+}
+.acheivments{
+	position: absolute;
+	align-items: center;
+	
+	top: 125px;
+}
+.iv{
+	position: absolute;
+	align-items: center;
+	top: 390px;
+	left: 330px;
+}
